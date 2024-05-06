@@ -1,3 +1,9 @@
+<h2>About</h2>
+This application was created as a report for the Mobile Programming 2 course
+<h2>Screenshots and Documentation</h2>
+Created : Monday, May 6, 2024
+
+
 - Create Redesign for Klik Indomaret Apps Using Figma
 - Access Figma Design Here : [https://bit.ly/3UnU0ne](https://www.figma.com/file/ZTDB6Yy63A1dkfkXrYm479/Redisgn-Klik-Indomaret?type=design&node-id=0%3A1&mode=design&t=gVUufy1cX4FRV8j0-1)
 - Dashboard, All Product and Detail Product page
