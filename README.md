@@ -18,10 +18,21 @@ Created : Monday, May 6, 2024
 
 ![Travel](https://github.com/septianpahmi/ReDesign_UI/assets/80021312/b3f91dc6-3227-4a0f-8a08-7948b1993ccd)
 
+<hr></hr>
 
 Created : Monday, May 20, 2024
 - Create Redesign for website SukaRobot to UI Android Using Figma
-- Access Figma Design Here : [[https://bit.ly/3UnU0ne](https://www.figma.com/file/ZTDB6Yy63A1dkfkXrYm479/Redisgn-Klik-Indomaret?type=design&node-id=0%3A1&mode=design&t=gVUufy1cX4FRV8j0-1)](https://www.figma.com/design/j2nOhXRbRIAzWUiyyvXIYE/Sukarobot?node-id=0-1&t=5rRugXVOa1Gwk4bm-0)
+- Access Figma Design Here : [https://bit.ly/3UnU0ne](https://www.figma.com/file/ZTDB6Yy63A1dkfkXrYm479/Redisgn-Klik-Indomaret?type=design&node-id=0%3A1&mode=design&t=gVUufy1cX4FRV8j0-1)
 - Splash Screen, Login Screen, Home Screen, Pelatihan Saya, Transaksi
 
 ![Sukarobot (1)](https://github.com/septianpahmi/ReDesign_UI/assets/80021312/bbec087f-3176-4032-b668-72cdf9802280)
+
+<hr></hr>
+
+Created : Monday, May 20, 2024
+- Create UI Android for DayTask Apps Using Figma
+- Access Figma Design Here : [https://bit.ly/3UnU0ne](https://www.figma.com/design/cREaAU78mHBtXJ6RhrsLzP/DayTask?node-id=1402-7&t=jYryCYUaJMbRRJEZ-0)
+- Login Screen, Home Screen, Schedule Screen, New Task, Profile
+
+
+![Frame 1](https://github.com/septianpahmi/ReDesign_UI/assets/80021312/29caa784-90b4-4ca4-b104-1403f5d95296)
